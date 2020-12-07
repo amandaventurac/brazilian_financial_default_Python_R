@@ -1,0 +1,28 @@
+Brasil	 1268
+Rondônia	 957
+Acre	 769
+Amazonas	 850
+Roraima	 1006
+Pará	 715
+Amapá	 936
+Tocantins	 937
+Maranhão	 597
+Piauí	 750
+Ceará	 824
+Rio Grande do Norte	 845
+Paraíba	 928
+Pernambuco	 852
+Alagoas	 658
+Sergipe	 834
+Bahia	 862
+Minas Gerais	 1224
+Espírito Santo	 1205
+Rio de Janeiro	 1445
+São Paulo	 1712
+Paraná	 1472
+Santa Catarina	 1597
+Rio Grande do Sul	 1635
+Mato Grosso do Sul	 1291
+Mato Grosso	 1247
+Goiás	 1277
+Distrito Federal	 2548
