@@ -24,5 +24,13 @@ Conclusions:
   >The region's mean wage inequality is astonishing, the South's mean wage is almost two times greater than the Northeast's mean wage.
 
 
-![linear_adjust_english](https://github.com/amandaventurac/brazilian_financial_default_Python_R/blob/main/graficos_juntos_regressao_linear.png)
 
+![linear_adjust](https://github.com/amandaventurac/brazilian_financial_default_Python_R/blob/main/graficos_juntos_regressao_linear.png)
+Fig1. Top: Brazilian mean micro-entrepreneur default rate evolution. Bottom: Brazilian mean wage evolution.
+
+![mean brazilian region wage and mean default rate region](https://github.com/amandaventurac/brazilian_financial_default_Python_R/blob/main/barras_juntos.png)
+Fig2. Left: region's mean micro-entrepreneur default rate in 2019, the Brazilian mean default rate is indicated as the dashed line. Right: region's mean wage in 2019, the Brazilian mean wage is indicated as the dashed line.
+
+
+![mean default rate region](https://github.com/amandaventurac/brazilian_financial_default_Python_R/blob/main/grafico_barras.png)
+Fig.3 State's mean micro-entrepreneur default rate in 2019, grouped by region. The region's mean micro-entrepreneur default rate is indicated as the dashed line. Green bars indicate a default rate below the Brazilian mean,  and red bars indicate the opposite.
