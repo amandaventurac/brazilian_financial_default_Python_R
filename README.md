@@ -1,6 +1,8 @@
 # brazilian_financial_default_Python_R
 This project is focused on the correlation between the micro-entrepreneur (MEIs) default rate and the mean wage in Brazilian regions.
 
+I also wrote a LinkedIn article in Portuguese about it, available here: https://www.linkedin.com/pulse/rela%C3%A7%C3%B5es-entre-inadimpl%C3%AAncia-de-meis-e-renda-per-capita-ventura-/
+
 Brazil is divided into 5 big regions: South, North, Southeast, Northeast, and Center-West, each of them presents particular economic indicators.
 
 The datasets from 2016 to 2019 were collected from Statistics and Geography Brazilian Institute, IBGE, and Brazilian Central Bank, BC. 
