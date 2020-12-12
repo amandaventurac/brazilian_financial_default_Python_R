@@ -29,9 +29,13 @@ Conclusions:
 
 Fig1. Top: Brazilian mean micro-entrepreneur default rate evolution. Bottom: Brazilian mean wage evolution.
 
+
+
 ![mean brazilian region wage and mean default rate region](https://github.com/amandaventurac/brazilian_financial_default_Python_R/blob/main/barras_juntos.png)
 
 Fig2. Left: region's mean micro-entrepreneur default rate in 2019, the Brazilian mean default rate is indicated as the dashed line. Right: region's mean wage in 2019, the Brazilian mean wage is indicated as the dashed line.
+
+
 
 
 ![mean default rate region](https://github.com/amandaventurac/brazilian_financial_default_Python_R/blob/main/grafico_barras.png)
