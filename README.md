@@ -24,4 +24,5 @@ Conclusions:
   >The region's mean wage inequality is astonishing, the South's mean wage is almost two times greater than the Northeast's mean wage.
 
 
+![linear_adjust_english](https://user-images.githubusercontent.com/41547014/95218448-a8b2a400-07ca-11eb-8c68-a64cb0b3362b.png)
 
